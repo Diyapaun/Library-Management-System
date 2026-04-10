@@ -76,5 +76,5 @@ For the best experience, especially for audiobook playback, use a **Chrome-based
 
 ---
 
-## 👩‍💻 Author
+## 👩‍💻 Author : Diya
 Developed as a MERN Stack academic project submission.
