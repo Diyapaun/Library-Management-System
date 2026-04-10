@@ -1,0 +1,359 @@
+[
+  
+  {
+    "image" : "1.jpeg",
+    "bookName": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "isbn": "9780141439518",
+    "category": "Classic",
+    "price": 855.04,
+    "pages": 432,
+    "description" : "Pride and Prejudice by Jane Austen is a classic romance novel that explores the themes of love, class, and misunderstandings. The witty banter and evolving relationship between Elizabeth Bennet and Mr. Darcy remain timelessly captivating.",
+    "audio" : "Pride_and_Prejudice_01.mp3"
+  },
+  {
+    "image" : "2.jpg",
+    "bookName": "The Catcher in the Rye",
+    "author": "J.D.Salinger",
+    "isbn": "9780316769488",
+    "category": "Classic",
+    "price": 726.65,
+    "pages": 277,
+    "description" : "The Catcher in the Rye follows the experiences of Holden Caulfield, a disillusioned teenager navigating the complexities of adulthood and identity. Through his sarcastic and emotional narration, the novel explores themes of alienation and the loss of innocence.",
+     "audio" : "The Catcher in the Rye.mp3"
+  },
+  {
+    "image": "3.jpg",
+    "bookName": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "isbn": "9780061120084",
+    "category": "Classic",
+    "price": 68.63,
+    "pages": 336,
+    "description" : "To Kill a Mockingbird by Harper Lee is a powerful novel that addresses racial injustice and moral growth in the American South. Through the eyes of young Scout Finch, it highlights the importance of empathy and understanding in a divided society.",
+     "audio" : "Pride_and_Prejudice_01.mp3"
+  },
+  {
+    "image": "1984.jpg",
+    "bookName": "1984",
+    "author": "George Orwell",
+    "isbn": "9780451524935",
+    "category": "Classic",
+    "price": 855.04,
+    "pages": 328,
+    "description" : "1984 by George Orwell is a dystopian novel that portrays a totalitarian regime controlling every aspect of life through surveillance and propaganda. It serves as a chilling warning about the dangers of authoritarianism and the loss of individual freedom.",
+     "audio" : "The Catcher in the Rye.mp3"
+  },
+  {
+    "image" : "4.jpeg",
+    "bookName": "It Ends With Us",
+    "author": "Coleen Hoover",
+    "isbn": "9781501110368",
+    "category": "Contemporary Fiction",
+    "price": 1282.99,
+    "pages": 384,
+    "description" : "It Ends With Us by Colleen Hoover is an emotional contemporary romance that explores the complexities of love, resilience, and breaking cycles of abuse. Through Lily's journey, the novel sheds light on difficult choices and the strength it takes to stand up for oneself.",
+     "audio" : "Pride_and_Prejudice_01.mp3"
+  },
+  {
+    "image" : "5.jpeg",
+    "bookName": "The Midnight Library",
+    "author": "Matt Heig",
+    "isbn": "9780525559474",
+    "category": "Contemporary Fiction",
+    "price": 1412.23,
+    "pages": 304,
+    "description" : "The Midnight Library by Matt Haig is a thought-provoking novel that explores the infinite possibilities of life through the regrets and choices of Nora Seed. Between life and death, she discovers how even the smallest decisions can lead to vastly different futures.",
+     "audio" : "The Catcher in the Rye.mp3"
+  },
+  {
+    "image" : "6.jpg",
+    "bookName": "The Nightingale",
+    "author": "Kristin Hannah",
+    "isbn": "9781250080400",
+    "category": "Historical Fiction",
+    "price": 1112.67,
+    "pages": 567,
+    "description" : "The Nightingale by Kristin Hannah is a gripping historical fiction novel set during World War II, following the lives of two sisters in Nazi-occupied France. It highlights the resilience, courage, and sacrifices of women in the face of unimaginable hardship.",
+     "audio" : "Pride_and_Prejudice_01.mp3"
+  },
+  {
+    "image" : "7.jpg",
+    "bookName": "All the Light We Cannot See",
+    "author": "Anthony Doerr",
+    "isbn": "9781476746586",
+    "category": "Historical Fiction",
+    "price": 1111.81,
+    "pages": 544,
+    "description" : "All the Light We Cannot See by Anthony Doerr is a beautifully crafted historical fiction novel set during World War II. It intertwines the stories of a blind French girl and a German soldier, emphasizing the resilience of the human spirit amid the devastation of war.",
+     "audio" : "The Catcher in the Rye.mp3"
+  },
+  {
+    "image" : "8.jpeg",
+    "bookName": "Gone Girl",
+    "author": "Gillian Flynn",
+    "isbn": "9780307588371",
+    "category": "Mystery",
+    "price": 941.49,
+    "pages": 432,
+    "description" : "Gone Girl by Gillian Flynn is a gripping psychological thriller that unravels the toxic marriage of Nick and Amy Dunne. With shocking twists and unreliable narrators, the novel explores themes of manipulation, deceit, and the darker sides of relationships.",
+     "audio" : "Pride_and_Prejudice_01.mp3"
+  },
+  {
+    "image" : "9.jpeg",
+    "bookName": "The Girl on the Train",
+    "author": "Paula Hawkins",
+    "isbn": "9781594634024",
+    "category": "Mystery",
+    "price": 898.65,
+    "pages": 336,
+    "description" : "The Girl on the Train by Paula Hawkins is a psychological thriller that follows the unraveling life of Rachel, an alcoholic who becomes entangled in a missing person investigation. Through its gripping narrative and shifting perspectives, the novel explores themes of memory, obsession, and deception.",
+     "audio" : "The Catcher in the Rye.mp3"
+  },
+  {
+    "image" : "10.jpg",
+    "bookName": "The Silent Patient",
+    "author": "Alex Michaelides",
+    "isbn": "9781250301697",
+    "category": "Thriller",
+    "price": 1219.65,
+    "pages": 336,
+    "description" : "The Silent Patient by Alex Michaelides is a psychological thriller about Alicia Berenson, a woman who stops speaking after being accused of murdering her husband. Through the perspective of her therapist, the novel unravels a chilling story of trauma, betrayal, and shocking revelations.",
+     "audio" : "Pride_and_Prejudice_01.mp3"
+  },
+  {
+    "image" : "11.jpg",
+    "bookName": "Before I Go to Sleep",
+    "author": "S J Watson",
+    "isbn": "9780062060556",
+    "category": "Thriller",
+    "price": 940.63,
+    "pages": 368,
+    "description" : "Before I Go to Sleep by S.J. Watson is a psychological thriller about Christine, a woman who loses her memory every time she sleeps. As she pieces together fragments of her past, she uncovers unsettling truths that make her question everything she thought she knew.",
+     "audio" : "The Catcher in the Rye.mp3"
+  },
+  {
+    "image" : "12.jpg",
+    "bookName": "Becoming",
+    "author": "Michelle OPama",
+    "isbn": "9781524763138",
+    "category": "Biography",
+    "price": 1625.35,
+    "pages": 448,
+    "description" : "Becoming by Michelle Obama is an inspiring memoir that chronicles her journey from a childhood in Chicago to her role as First Lady of the United States. With honesty and grace, she shares personal stories of resilience, identity, and her dedication to making a difference.",
+     "audio" : "Pride_and_Prejudice_01.mp3"
+  },
+  {
+    "image" : "13.jpg",
+    "bookName": "Steve Jobs",
+    "author": "Michael B. Becraft",
+    "isbn": "9781451648539",
+    "category": "Biography",
+    "price": 1476.42,
+    "pages": 656,
+    "description" : "Steve Jobs by Walter Isaacson is a compelling biography that captures the life and legacy of the visionary Apple co-founder. Through interviews and personal insights, it reveals his relentless pursuit of innovation, creativity, and the transformative impact he had on the tech world.",
+     "audio" : "The Catcher in the Rye.mp3"
+  },
+  {
+    "image" : "14.jpg",
+    "bookName": "The 7 Habits of Highly Effective People",
+    "author": "Stephen R. Covey",
+    "isbn": "9780743269513",
+    "category": "Self-Help",
+    "price": 1283.85,
+    "pages": 432,
+    "description" : "The 7 Habits of Highly Effective People by Stephen R. Covey is a transformative self-help book that offers practical principles for personal and professional growth. By focusing on character development and proactive behavior, it empowers readers to lead more purposeful and successful lives.",
+     "audio" : "Pride_and_Prejudice_01.mp3"
+  },
+  {
+    "image" : "15.jpg",
+    "bookName": "Atomic Habits",
+    "author": "James Clear",
+    "isbn": "9780735211292",
+    "category": "Self-Help",
+    "price": 1557.73,
+    "pages": 320,
+    "description" : "Atomic Habits by James Clear is a practical self-improvement guide that focuses on the power of small, incremental changes. Through actionable strategies, it teaches readers how to build good habits, break bad ones, and achieve lasting personal growth.",
+     "audio" : "The Catcher in the Rye.mp3"
+  },
+  {
+    "image" : "16.jpg",
+    "bookName": "Rich Dad Poor Dad",
+    "author": "Robert T. Kiyosaki",
+    "isbn": "9781612680194",
+    "category": "Business",
+    "price": 1026.22,
+    "pages": 336,
+    "description" : "Rich Dad Poor Dad by Robert Kiyosaki is a personal finance classic that contrasts the financial philosophies of his “rich dad” and “poor dad.” Through valuable lessons on investing, financial independence, and money management, it encourages readers to build wealth and think like an investor.",
+     "audio" : "Pride_and_Prejudice_01.mp3"
+  },
+  {
+    "image" : "17.jpg",
+    "bookName": "Think and Grow Rich",
+    "author": "Napoleon Hill",
+    "isbn": "9781585424337",
+    "category": "Business",
+    "price": 1241.05,
+    "pages": 320,
+    "description" : "Think and Grow Rich by Napoleon Hill is a timeless self-help classic that explores the principles of success and wealth creation. Through insights from successful individuals, it emphasizes the power of desire, faith, and persistence in achieving personal and financial goals.",
+     "audio" : "The Catcher in the Rye.mp3"
+  },
+
+ 
+  {
+    "image" : "18.jpeg",
+    "bookName": "Brief History of Time",
+    "author": "Stephen Hawking",
+    "isbn": "9780553380163",
+    "category": "Science",
+    "price": 1111.81,
+    "pages": 256,
+    "description" : "A Brief History of Time by Stephen Hawking is a groundbreaking science book that explores complex concepts like black holes, time travel, and the origins of the universe. Written for a general audience, it offers a fascinating glimpse into the mysteries of the cosmos.",
+     "audio" : "Pride_and_Prejudice_01.mp3"
+  },
+  {
+    "image" : "19.jpg",
+    "bookName": "Astrophysics for People in a Hurry",
+    "author": "Neil Degrasse Tyson",
+    "isbn": "9780393609394",
+    "category": "Science",
+    "price": 1326.645,
+    "pages": 224,
+    "description" : "Astrophysics for People in a Hurry by Neil deGrasse Tyson is a concise and engaging guide to the universe's biggest mysteries. With wit and clarity, it covers topics like dark matter, black holes, and the Big Bang, making complex science accessible to all readers.",
+     "audio" : "The Catcher in the Rye.mp3"
+  },
+  {
+    "image" : "20.jpg",
+    "bookName": "Calculus Made Easy",
+    "author": "Silvanus P. Thompson",
+    "isbn": "9780312185480",
+    "category": "Mathematics",
+    "price": 1219.65,
+    "pages": 336,
+    "description" : "Calculus Made Easy by Silvanus P. Thompson is a classic introduction to calculus, breaking down complex concepts into simple explanations. With its clear language and practical examples, it remains a popular choice for beginners seeking to understand the fundamentals of calculus.",
+     "audio" : "Pride_and_Prejudice_01.mp3"
+  },
+  {
+    "image" : "21.jpg",
+    "bookName": "The Joy of x",
+    "author": "Steven Strogatz",
+    "isbn": "9780544105850",
+    "category": "Mathematics",
+    "price": 1176.86,
+    "pages": 320,
+    "description" : "The Joy of x by Steven Strogatz offers an engaging and accessible exploration of mathematics, revealing its presence in everyday life. Through fascinating stories and relatable examples, the book makes complex mathematical concepts enjoyable and easy to understand.",
+     "audio" : "The Catcher in the Rye.mp3"
+  },
+
+
+  {
+    "image" : "22.jpg",
+    "bookName": "The Very Hungry Caterpillar",
+    "author": "Eric Carle",
+    "isbn": "9780399226907",
+    "category": "Picture Books",
+    "price": 940.63,
+    "pages": 32,
+    "description" : "The Very Hungry Caterpillar by Eric Carle is a beloved children's picture book that follows the journey of a caterpillar as it eats its way through various foods. With its vibrant illustrations and simple storytelling, it teaches young readers about numbers, days of the week, and the life cycle of a butterfly.",
+     "audio" : "Pride_and_Prejudice_01.mp3"
+  },
+  {
+    "image" : "23.jpeg",
+    "bookName": "Goodnight Moon",
+    "author": "Margerat Wise Brown",
+    "isbn": "9780694003617",
+    "category": "Picture Books",
+    "price": 727.51,
+    "pages": 34,
+    "description" : "Goodnight Moon by Margaret Wise Brown is a classic bedtime story that follows a young bunny saying goodnight to everything around its cozy room. With its gentle, rhythmic prose and soothing illustrations, it has comforted generations of children as they drift off to sleep.",
+     "audio" : "The Catcher in the Rye.mp3"
+  },
+  {
+    "image" : "24.jpg",
+    "bookName": "Percy Jackson: The Lightning Thief",
+    "author": "Rick Riordan",
+    "isbn": "9780786838653",
+    "category": "Young Fiction",
+    "price": 11754.17,
+    "pages": 400,
+    "description" : "Percy Jackson: The Lightning Thief by Rick Riordan follows a 12-year-old boy who discovers he's a demigod, the son of Poseidon. Tasked with retrieving Zeus's stolen lightning bolt, Percy embarks on a thrilling quest across America, facing mythical creatures and uncovering his true destiny.",
+     "audio" : "Pride_and_Prejudice_01.mp3"
+  },
+  {
+    "image" : "25.jpg",
+    "bookName": "The Hunger Games",
+    "author": "Suzanne Collins",
+    "isbn": "9780439023481",
+    "category": "Young Fiction",
+    "price": 1091.27,
+    "pages": 374,
+    "description" : "The Hunger Games by Suzanne Collins is a dystopian novel set in a future society where children are forced to compete in a brutal televised death match. The story follows Katniss Everdeen as she volunteers to take her sister's place and becomes a symbol of rebellion.",
+     "audio" : "The Catcher in the Rye.mp3"
+  },
+  {
+    "image" : "26.jpg",
+    "bookName": "The Alchemist",
+    "author": "Panlo Coelho",
+    "isbn": "9780062315007",
+    "category": "Spirituality",
+    "price": 1282.99,
+    "pages": 208,
+    "description" : "The Alchemist by Paulo Coelho is a philosophical novel that follows the journey of Santiago, a shepherd boy who dreams of finding a treasure in Egypt. Through his adventures, he learns about the importance of pursuing one's dreams and listening to one's heart.",
+     "audio" : "Pride_and_Prejudice_01.mp3"
+  },
+  {
+    "image" : "27.jpg",
+    "bookName": "The Bhagavad Gita",
+    "author": " Ved Vyasa",
+    "isbn": "9780140449181",
+    "category": "Religion",
+    "price": 984.28,
+    "pages": 384,
+    "description" : "The Bhagavad Gita is a sacred Hindu scripture that presents a dialogue between Prince Arjuna and Lord Krishna on the battlefield of Kurukshetra. Through its teachings, it offers profound insights on duty, righteousness, and the path to spiritual enlightenment.",
+     "audio" : "The Catcher in the Rye.mp3"
+  },
+  {
+    "image" : "28.jpg",
+    "bookName": "Milk and Honey",
+    "author": "Rupi Kaur",
+    "isbn": "9781449474256",
+    "category": "Poetry",
+    "price": 1155.46,
+    "pages": 208,
+    "description" : "Milk and Honey by Rupi Kaur is a bestselling collection of poetry and prose that explores themes of love, loss, trauma, healing, and femininity. Divided into four chapters, it offers raw and emotional reflections on the experiences of pain and resilience.",
+     "audio" : "Pride_and_Prejudice_01.mp3"
+  },
+  {
+    "image" : "29.jpg",
+    "bookName": "The Sun and Her Flowers",
+    "author": "Rupi Kaur",
+    "isbn": "9781449494278",
+    "category": "Poetry",
+    "price": 1219.65,
+    "pages": 256,
+    "description" : "The Sun and Her Flowers by Rupi Kaur is a powerful collection of poetry that explores themes of growth, healing, self-love, and cultural identity. Through its five chapters, it takes readers on an emotional journey of wilting, falling, rooting, rising, and blooming.",
+     "audio" : "The Catcher in the Rye.mp3"
+  },
+  {
+    "image" : "30.jpg",
+    "bookName": "The Alchemist 2",
+    "author": "Nich Flesher",
+    "isbn": "9780061122415",
+    "category": "Fiction",
+    "price": 350,
+    "pages": 208,
+    "description" : "There is no official sequel to The Alchemist by Paulo Coelho. However, Paulo Coelho has written other inspirational novels like Brida and The Valkyries, which explore similar themes of self-discovery and spiritual growth.",
+     "audio" : "Pride_and_Prejudice_01.mp3"
+  },
+  {
+    "image" : "31.jpg",
+    "bookName": "Clean Code",
+    "author": "Robert C. Martin",
+    "isbn": "9780132350884",
+    "category": "Programming",
+    "price": 850,
+    "pages": 464,
+    "description" : "Clean Code by Robert C. Martin is a practical guide for software developers that emphasizes writing readable, maintainable, and efficient code. It offers valuable principles, best practices, and case studies to help programmers write high-quality software.",
+     "audio" : "The Catcher in the Rye.mp3"
+  }
+]
